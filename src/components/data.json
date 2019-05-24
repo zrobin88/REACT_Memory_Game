@@ -1,0 +1,98 @@
+[
+    {
+      "id": 0,
+      "name": "DimeBag Darrell",
+      "image": "http://www.mytinyphone.com/uploads/users/cowboyfromhell/305984.jpg",
+      "occupation": "Pantera Guitarist",
+      "location": "The great gig in the sky",
+      "pressed": false
+    },
+    {
+      "id": 1,
+      "name": "Ozzy Osbourne",
+      "image": "https://www.biography.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MTU2NjYwMjc2OTgzMjQ0MDQw/ozzy-osbourne-before-a-performance-at-the-poplar-creek-music-theater-in-hoffman-estates-chicago-illinois-july-13-1986-photo-by-paul-natkin_getty-images.webp",
+      "occupation": "Prince of Darkness and Absolute F*cking Madman!",
+      "location": "Everywhere",
+      "pressed": false
+    },
+    {
+      "id": 2,
+      "name": "Zakk Wylde",
+      "image": "http://www1.pictures.gi.zimbio.com/Zakk+Wylde+Ozzy+Osbourne+Commemorates+Launch+7P632bW26a7l.jpg",
+      "occupation": "Guitarist",
+      "location": "Valhalla",
+      "pressed": false
+    },
+    {
+      "id": 3,
+      "name": "James Hetfield",
+      "image": "https://i.pinimg.com/474x/e9/2e/57/e92e5717cc11aac46200b3a19bba9dbd--james-hetfield-the-s.jpg",
+      "occupation": "a GOD",
+      "location": "Through the Never",
+      "pressed": false
+    },
+    {
+      "id": 4,
+      "name": "M Shadows",
+      "image": "https://images.ecosia.org/O9Omy0P4YhFAwoFjyXgEx5TKZLg=/0x390/smart/http%3A%2F%2Fs9.favim.com%2Forig%2F140102%2Favenged-sevenfold-mshadows-matt-charles-sanders-Favim.com-1218407.jpg",
+      "occupation": "Singer for Avenged Sevenfold",
+      "location": "City of Evil",
+      "pressed": false
+
+    },
+    {
+      "id": 5,
+      "name": "Bruce Dickinson",
+      "image": "https://stevenamckay.files.wordpress.com/2017/12/bruce21.jpg",
+      "occupation": "Singer for Iron Maiden, Pilot",
+      "location": "Where Eagles Dare",
+      "pressed": false
+
+    },
+    {
+      "id": 6,
+      "name": "Nikki Sixx",
+      "image": "http://www4.pictures.zimbio.com/gi/Nikki+Sixx+2014+iHeartRadio+Music+Festival+jvFu5dUbKukl.jpg",
+      "occupation": "Founding member of Motley Crue and Bassist",
+      "location": "The Top",
+      "pressed": false
+
+    },
+    {
+      "id": 7,
+      "name": "Alexi Laiho",
+      "image": "https://www.metal-archives.com/images/2/0/0/9/2009_artist.jpg?2404",
+      "occupation": "Guitar Wizard, Melter of Faces, Mastermind behind Children of Bodom",
+      "location": "Lake Bodom Finnland",
+      "pressed": false
+
+    },
+    {
+      "id": 8,
+      "name": "Chris Adler",
+      "image": "https://i.pinimg.com/474x/23/7c/11/237c1197da6cac4c4df0f80315c8b823--drummer-quotes-working-man.jpg",
+      "occupation": "Drummer, Best Drummer",
+      "location": "Wherever there's drums",
+      "pressed": false
+
+    },
+    {
+      "id": 9,
+      "name": "Corey Taylor",
+      "image": "https://i.pinimg.com/474x/df/84/60/df8460e8da5480e5ca5ec44aca2a4f83--corey-taylor-slipknot.jpg",
+      "occupation": "You know who he is",
+      "location": "Knotfest 2019",
+      "pressed": false
+
+    },
+    {
+      "id": 10,
+      "name": "Dave Mustaine",
+      "image": "https://pics.armadilloent.com/sirv/artists/dave-mustaine/feature.png",
+      "occupation": "Guitarist and Singer for Megadeth",
+      "location": "Dystopia",
+      "pressed": false
+
+    }
+  ]
+  
