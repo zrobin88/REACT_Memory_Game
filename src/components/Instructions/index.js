@@ -6,7 +6,7 @@ function Instructions(){
     return (
         <div className="jumbotron jumbotron-fluid mt-5" id='jtron'>
             <div className="container">
-                <h4 className="display-4">Welcome to my React.js memory game</h4>
+                <h4 className="display-4">Welcome to my React.js Memory Game!</h4>
                <h3>How to Play:</h3>
                <ul>
                    <li>Each card contains a set score</li>
